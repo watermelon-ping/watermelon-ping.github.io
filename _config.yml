@@ -1,9 +1,9 @@
-title: Hexo
-subtitle: ''
-description: ''
-keywords: null
-author: John Doe
-language: en
+title: Melon
+subtitle: 'Melon website'
+description: '个人博客网站，会有一些个人的想法以及一些编码的总结，会不定期更新'
+keywords: 程序员,博客,golang,代码
+author: Melon Chen
+language: zh
 timezone: ''
 url: http://example.com
 permalink: ':year/:month/:day/:title/'
