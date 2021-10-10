@@ -57,7 +57,7 @@ updated_option: mtime
 per_page: 10
 pagination_dir: page
 include:
-  - ".circleci/*"
+  - ".circleci/config.yml"
 exclude: null
 ignore: null
 theme: next
