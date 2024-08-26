@@ -46,6 +46,10 @@ workflows:
   version: 2
   build_and_deploy:
     jobs:
+      steps:
+      - add_ssh_keys:
+            fingerprints:
+              - "siKycK3rvjXWJdNw5RXcrSsjt4+cU82GksFHNjWR+vQ"
       - build:
           filters:
             branches:
